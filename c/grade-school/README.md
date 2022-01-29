@@ -26,7 +26,7 @@ In the end, you should be able to:
   and Jim in grade 5.
   So the answer is: Anna, Barb, Charlie, Alex, Peter, Zoe and Jim"
 
-![alt text](https://www.gif-maniac.com/gifs/53/53423.gif)
+<img align="left" width="33%" src="https://www.ada17.fr/wp-content/uploads/2019/05/534231.gif">
 
 Note that all our students only have one name  (It's a small town, what
 do you want?) and each student cannot be added more than once to a grade or the
@@ -35,7 +35,10 @@ In fact, when a test attempts to add the same student more than once, your
 implementation should indicate that this is incorrect.
 
 ## For bonus points
-![This is an image](https://c.tenor.com/U5QO9PMEmPkAAAAC/bonus-green.gif)]
+
+<p align="center" width="100%">
+    <img src="https://c.tenor.com/U5QO9PMEmPkAAAAC/bonus-green.gif">
+</p>
 
 Did you get the tests passing and the code clean? If you want to, these
 are some additional things you could try:
