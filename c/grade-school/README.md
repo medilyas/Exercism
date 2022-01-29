@@ -25,14 +25,15 @@ In the end, you should be able to:
   Alex, Peter, and Zoe in grade 2
   and Jim in grade 5.
   So the answer is: Anna, Barb, Charlie, Alex, Peter, Zoe and Jim"
-
-<img align="left" width="33%" src="https://www.ada17.fr/wp-content/uploads/2019/05/534231.gif">
+<p>
+<img align="left" width="20%" src="https://www.ada17.fr/wp-content/uploads/2019/05/534231.gif">
 
 Note that all our students only have one name  (It's a small town, what
 do you want?) and each student cannot be added more than once to a grade or the
 roster.
 In fact, when a test attempts to add the same student more than once, your
 implementation should indicate that this is incorrect.
+</p>
 
 ## For bonus points
 
