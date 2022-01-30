@@ -1,9 +1,8 @@
 # Space Age
-<div id="container">
-	<img width="10%" src="https://dg8krxphbh767.cloudfront.net/exercises/space-age.svg" style="float: left;" />
-	<p>Welcome to Space Age on Exercism's C Track.
-	If you need help running the tests or submitting your code, check out `HELP.md`.</p>
-</div>
+
+<img width="10%" src="https://dg8krxphbh767.cloudfront.net/exercises/space-age.svg">
+Welcome to Space Age on Exercism's C Track.
+If you need help running the tests or submitting your code, check out `HELP.md`.</p>
 
 
 ## Instructions
