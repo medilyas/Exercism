@@ -1,11 +1,12 @@
-<div>
 <img align="left" src="https://dg8krxphbh767.cloudfront.net/exercises/space-age.svg">
 # Space Age
 
 Welcome to Space Age on Exercism's C Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
-</div>
-<div>
+
+
+
+
 ## Instructions
 
 Given an age in seconds, calculate how old someone would be on:
@@ -28,7 +29,7 @@ be able to say that they're 31.69 Earth-years old.
 
 If you're wondering why Pluto didn't make the cut, go watch [this
 youtube video](http://www.youtube.com/watch?v=Z_2gbGXzFbs).
-</div>
+
 ## Source
 
 ### Created by
