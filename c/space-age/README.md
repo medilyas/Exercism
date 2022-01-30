@@ -1,8 +1,10 @@
-<img align="left" width="10%" src="https://dg8krxphbh767.cloudfront.net/exercises/space-age.svg">
 # Space Age
+<img align="left" width="10%" src="https://dg8krxphbh767.cloudfront.net/exercises/space-age.svg">
 
 Welcome to Space Age on Exercism's C Track.
 If you need help running the tests or submitting your code, check out `HELP.md`.
+
+
 
 ## Instructions
 
@@ -20,12 +22,11 @@ Given an age in seconds, calculate how old someone would be on:
 So if you were told someone were 1,000,000,000 seconds old, you should
 be able to say that they're 31.69 Earth-years old.
 
-<p align="center" width="60%">
+If you're wondering why Pluto didn't make the cut, go watch [this youtube video](http://www.youtube.com/watch?v=Z_2gbGXzFbs).
+
+<p align="center" width="100%">
 	<img src="https://i.pinimg.com/originals/0e/64/3e/0e643e1015b0f01d2de68b54554bc95f.gif">
 </p>
-
-If you're wondering why Pluto didn't make the cut, go watch [this
-youtube video](http://www.youtube.com/watch?v=Z_2gbGXzFbs).
 
 ## Source
 
